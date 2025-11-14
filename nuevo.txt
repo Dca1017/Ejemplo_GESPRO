@@ -1,3 +1,7 @@
 hola esto es un documento de prueba y me llamo jorge
 hola jorge qué tal estás?
+<<<<<<< HEAD
 Buenos días Castrillo, yo soy tu padre.
+=======
+Yo, Diego, estoy muy bien, gracias
+>>>>>>> 67847938e2772bb7bffa8a1f421a2644a7be73a6
